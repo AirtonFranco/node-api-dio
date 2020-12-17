@@ -1,4 +1,4 @@
-![Logo of the project](https://web.digitalinnovation.one/)
+![Curso NodeJS](node.PNG)
 
 ## PROJETO API - GET/POST/PUT/DELETE
 
