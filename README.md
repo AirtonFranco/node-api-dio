@@ -4,7 +4,9 @@
 
 Esse projeto foi desenvolvido no curso de Node js e Express da Digital Innovation One
 
-## NODE JS
+## INTRODUÇÃO AO NODE JS COM EXPRESS - DIGITAL INNOVATION ONE
+
+![NodeJS](certificado.PNG)
 
 Rode os seguintes comandos.
  
